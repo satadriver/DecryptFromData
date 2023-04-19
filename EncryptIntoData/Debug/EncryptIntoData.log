@@ -1,0 +1,10 @@
+﻿  EncryptIntoData.cpp
+LINK : warning LNK4217: 符号“_malloc”(在“ libucrtd.lib(malloc.obj)”中定义)已由“zlib.lib(zutil.obj)”(函数“_zcalloc”中)导入
+LINK : warning LNK4217: 符号“_free”(在“ libucrtd.lib(free.obj)”中定义)已由“zlib.lib(zutil.obj)”(函数“_zcfree”中)导入
+zlib.lib(adler32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(adler32.obj)”或在“E:\BaiduNetdiskDownload\DecryptFromData\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(compress.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(compress.obj)”或在“E:\BaiduNetdiskDownload\DecryptFromData\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(crc32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(crc32.obj)”或在“E:\BaiduNetdiskDownload\DecryptFromData\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(deflate.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(deflate.obj)”或在“E:\BaiduNetdiskDownload\DecryptFromData\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(trees.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(trees.obj)”或在“E:\BaiduNetdiskDownload\DecryptFromData\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(zutil.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(zutil.obj)”或在“E:\BaiduNetdiskDownload\DecryptFromData\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  EncryptIntoData.vcxproj -> E:\BaiduNetdiskDownload\DecryptFromData\Debug\EncryptIntoData.exe
